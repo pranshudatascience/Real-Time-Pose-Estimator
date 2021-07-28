@@ -1,6 +1,24 @@
 # Real Time Pose Estimator
 You can refer about Mediappe from here: https://mediapipe.dev/
+
+
+
+
+
 ![pose_tracking_example](https://user-images.githubusercontent.com/31736193/127368469-0cd83618-ac6b-4d3b-a533-93ecc86ed230.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
