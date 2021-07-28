@@ -1,5 +1,5 @@
 # Real Time Pose Estimator
-You can refer about Mediappe from here: https://mediapipe.dev/
+You can refer about Mediapipe from here: https://mediapipe.dev/
 
 
 
